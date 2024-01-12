@@ -11,12 +11,7 @@ import ru.misis.webapp.dto.CalculatorDataDto;
 import ru.misis.webapp.dto.ResultDto;
 import ru.misis.webapp.service.CalculatorService;
 
-/**
- * REST контроллер для калькулятора
- *
- * @author Alexander Dedov
- * @since 28.12.2023
- */
+
 @RestController
 @RequestMapping("/api/dev")
 public class CalculatorRestController {
