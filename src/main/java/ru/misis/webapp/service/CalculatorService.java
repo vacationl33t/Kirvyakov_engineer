@@ -4,12 +4,7 @@ import org.springframework.stereotype.Service;
 import ru.misis.webapp.dto.CalculatorDataDto;
 import ru.misis.webapp.dto.ResultDto;
 
-/**
- * Сервис с функционалом калькулятора
- *
- * @author Alexander Dedov
- * @since 28.12.2023
- */
+
 @Service
 public class CalculatorService {
 
